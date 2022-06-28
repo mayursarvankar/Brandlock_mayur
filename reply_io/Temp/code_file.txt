@@ -1,0 +1,20 @@
+
+http://skyhawk.brandlock.io/
+#https://dataedo.com/kb/tools/sql-workbench-j/find-table#:~:text=To%20open%20explorer%20go%20to,right%20and%20confirm%20with%20enter.
+# host: 'brandlock-analytics.cml96yw8vdxq.us-west-2.rds.amazonaws.com',
+#         port: 5432,
+#         user: 'mayur',
+#         password: 'Fse#4Hntfgj#$vs',
+#         database: 'marketing',
+#         timezone: 'ist'
+
+
+
+Two tables
+campaign_company,
+case_study
+
+
+SELECT * FROM campaign WHERE name = '1234567';
+id =266
+cratedAt = 1654062946146

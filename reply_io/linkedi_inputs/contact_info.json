@@ -1,0 +1,201 @@
+{
+   "industryName":"Computer Software",
+   "lastName":"Tigan",
+   "locationName":"United States",
+   "student":false,
+   "geoCountryName":"United States",
+   "geoCountryUrn":"urn:li:fs_geo:103644278",
+   "geoLocationBackfilled":false,
+   "elt":false,
+   "industryUrn":"urn:li:fs_industry:4",
+   "firstName":"Angelica",
+   "entityUrn":"urn:li:fs_profile:ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0",
+   "geoLocation":{
+      "geoUrn":"urn:li:fs_geo:102571732"
+   },
+   "geoLocationName":"New York, New York",
+   "location":{
+      "basicLocation":{
+         "countryCode":"us"
+      }
+   },
+   "headline":"Director, Head of Sales Portals at BlackRock",
+   "displayPictureUrl":"https://media-exp1.licdn.com/dms/image/C4D03AQFQWpuBI-pO7w/profile-displayphoto-shrink_",
+   "img_100_100":"100_100/0/1569274970243?e=1658361600&v=beta&t=8WHlpGF9PRqyHVqtA1Dq4_A_PtLTCitc8UN8B5hEdEI",
+   "img_200_200":"200_200/0/1569274970243?e=1658361600&v=beta&t=-CpOryk_fktcYVDGAIvNQkswYvA2mBZ9tHqUJBewFFQ",
+   "img_400_400":"400_400/0/1569274970243?e=1658361600&v=beta&t=vsoh0awpE70cB4le7FOt_dvmqR8afZQZGJ0DMMZovjE",
+   "img_800_800":"800_800/0/1569274970243?e=1658361600&v=beta&t=he0KDQQwc738yJwope3v8XGwwgUI9SQTb9Ud0zoKc1g",
+   "profile_id":"ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0",
+   "profile_urn":"urn:li:fs_miniProfile:ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0",
+   "member_urn":"urn:li:member:155211480",
+   "experience":[
+      {
+         "locationName":"New York, United States",
+         "entityUrn":"urn:li:fs_position:(ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0,1609773312)",
+         "geoLocationName":"New York, United States",
+         "geoUrn":"urn:li:fs_geo:105080838",
+         "companyName":"BlackRock",
+         "timePeriod":{
+            "startDate":{
+               "month":5,
+               "year":2019
+            }
+         },
+         "description":"In 2019, eFront was acquired by BlackRock and since then operates as a specialized business unit within BlackRock Solutions, alongside Aladdin Institutional and Aladdin Wealth.",
+         "company":{
+            "employeeCountRange":{
+               "start":10001
+            },
+            "industries":[
+               "Financial Services"
+            ]
+         },
+         "title":"Director ",
+         "region":"urn:li:fs_region:(us,0)",
+         "companyUrn":"urn:li:fs_miniCompany:4764",
+         "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C4E0BAQHxeOXYa2IxrQ/company-logo_"
+      },
+      {
+         "locationName":"Greater New York City Area",
+         "entityUrn":"urn:li:fs_position:(ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0,1332217921)",
+         "geoLocationName":"Greater New York City Area",
+         "geoUrn":"urn:li:fs_geo:90000070",
+         "companyName":"eFront",
+         "timePeriod":{
+            "startDate":{
+               "month":5,
+               "year":2018
+            }
+         },
+         "company":{
+            "employeeCountRange":{
+               "start":501,
+               "end":1000
+            },
+            "industries":[
+               "Computer Software"
+            ]
+         },
+         "title":"Head of Sales Portals",
+         "region":"urn:li:fs_region:(us,70)",
+         "companyUrn":"urn:li:fs_miniCompany:22306",
+         "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C4E0BAQHq6wN-zouApQ/company-logo_"
+      },
+      {
+         "locationName":"Montreal, Canada Area",
+         "entityUrn":"urn:li:fs_position:(ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0,922492377)",
+         "geoLocationName":"Montreal, Canada Area",
+         "geoUrn":"urn:li:fs_geo:90009540",
+         "companyName":"eFront",
+         "timePeriod":{
+            "startDate":{
+               "month":2,
+               "year":2017
+            }
+         },
+         "company":{
+            "employeeCountRange":{
+               "start":501,
+               "end":1000
+            },
+            "industries":[
+               "Computer Software"
+            ]
+         },
+         "title":"Head of Sales Portals - eFront Investment Café",
+         "region":"urn:li:fs_region:(ca,4863)",
+         "companyUrn":"urn:li:fs_miniCompany:22306",
+         "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C4E0BAQHq6wN-zouApQ/company-logo_"
+      },
+      {
+         "locationName":"Région de New York City, États-Unis",
+         "entityUrn":"urn:li:fs_position:(ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0,646631972)",
+         "geoLocationName":"Région de New York City, États-Unis",
+         "geoUrn":"urn:li:fs_geo:90000070",
+         "companyName":"Intralinks",
+         "timePeriod":{
+            "endDate":{
+               "month":12,
+               "year":2016
+            },
+            "startDate":{
+               "month":7,
+               "year":2014
+            }
+         },
+         "company":{
+            "employeeCountRange":{
+               "start":1001,
+               "end":5000
+            },
+            "industries":[
+               "Computer Software"
+            ]
+         },
+         "title":"Senior Account Executive",
+         "region":"urn:li:fs_region:(us,70)",
+         "companyUrn":"urn:li:fs_miniCompany:7994",
+         "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C4D0BAQHy3QGX1hPVjw/company-logo_"
+      },
+      {
+         "locationName":"Région de Paris, France",
+         "entityUrn":"urn:li:fs_position:(ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0,236981528)",
+         "geoLocationName":"Région de Paris, France",
+         "geoUrn":"urn:li:fs_geo:90009659",
+         "companyName":"IntraLinks",
+         "timePeriod":{
+            "endDate":{
+               "month":6,
+               "year":2014
+            },
+            "startDate":{
+               "month":12,
+               "year":2011
+            }
+         },
+         "company":{
+            "employeeCountRange":{
+               "start":1001,
+               "end":5000
+            },
+            "industries":[
+               "Computer Software"
+            ]
+         },
+         "title":"Account Executive",
+         "region":"urn:li:fs_region:(fr,5227)",
+         "companyUrn":"urn:li:fs_miniCompany:7994",
+         "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C4D0BAQHy3QGX1hPVjw/company-logo_"
+      }
+   ],
+   "education":[
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0,96483888)",
+         "schoolName":"Université Américaine de Paris",
+         "fieldOfStudy":"Business Management"
+      },
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAlAVtgBmPfPg5rff9JZEsvp4WNNdfq0p_0,96483781)",
+         "schoolName":"Université Vasile Goldis",
+         "fieldOfStudy":"Economie"
+      }
+   ],
+   "languages":[
+
+   ],
+   "publications":[
+
+   ],
+   "certifications":[
+
+   ],
+   "volunteer":[
+
+   ],
+   "honors":[
+
+   ],
+   "projects":[
+
+   ]
+}

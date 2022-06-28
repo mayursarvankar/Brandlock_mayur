@@ -1,0 +1,33 @@
+#=======================================================================
+        print("testing")
+        import pandas as pd
+        emp = pd.read_csv("Hawk_Op.csv")
+
+        replyObject.startReply()
+        rowNo=0
+
+        for Name,Designation,Location,Company,compWebsite,campId in  zip(emp['Name'].values,emp['Designation'],emp['Location'],emp['Company'],
+                         emp['Website'],emp['campId']):
+
+            emailID = replyObject.emailFinder(fullName=Name, companyWebsite=compWebsite)
+
+            rowNo=rowNo+1
+            Datetime_var=datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+
+            # emailID ="emailID"
+
+            print(f"-----------------------------{rowNo}------------------------------------")
+            print(f"Name        --> {Name}\n"
+                  f"Designation --> {Designation}\n"
+                  f"Location    --> {Location}\n"
+                  f"Company     --> {Company}\n"
+                  f"Website     --> {compWebsite}\n"
+                  f"Email Id    --> {emailID}\n"
+                  f"Date Time   --> {Datetime_var}")
+
+            with open("Hawk_OpTest.csv", "a", newline="", encoding="UTF-8") as fp:
+                writer = csv.writer(fp)
+                writer.writerow([Name, Designation, Location, emailID, Company, compWebsite, campId])
+
+            # if rowNo==3:
+            #     break

@@ -1,0 +1,135 @@
+{
+    "db": {
+        "host": "brandlock-analytics.cml96yw8vdxq.us-west-2.rds.amazonaws.com",
+        "user": "11",
+        "database": "11",
+        "password": "11",
+        "port": "5432"
+    },
+    "Hawk_driver":{
+      "Driver_path" : "C:\\Users\\Admin\\PycharmProjects\\db_conection_screenshot\\drivers\\chromedriver.exe",
+      "Chrome_profile_no": "14",
+      "reply_extension_path": "chrome-extension://amcdijdgmckgkkahhcobikllddfbfidi/pluginSrc/index.html"
+
+    },
+    "reply_selectors": {
+
+      "plus_button":"document.querySelector(\"[data-cy = 'plus-button']\").click() ",
+      "create_contatct":"document.querySelector(\"[data-cy=add-menu-create-contact]\").click()",
+      "input_email": "input[name=email]",
+      "input_fname": "input[name=firstName]",
+      "input_lname" :"input[name=lastName]",
+      "clinkcing_serach_button": "var event = new MouseEvent('click', {\n            'view': window,\n            'bubbles': true,\n            'cancelable': true\n          });\n           document.querySelector(\"#content-wrap > div.src__Box-sc-1sbtrzs-0.blGwRa > div.src__Box-sc-1sbtrzs-0.sc-fZwumE.kdvBOi > div > div > svg\").dispatchEvent(event);",
+      "email_finder": "return document.querySelector(\"#content-wrap >div  >div:nth-child(3) span\").textContent",
+      "email_status": "return document.querySelector(\".sc-brqgnP.hIoYOw\").textContent"
+
+    },
+    "company_info":
+        [
+          "https://www.linkedin.com/sales/company/1243214",
+          "https://www.linkedin.com/sales/company/11211517",
+          "https://www.linkedin.com/sales/company/137951",
+          "https://www.linkedin.com/sales/company/51205",
+          "https://www.linkedin.com/sales/company/13768",
+          "https://www.linkedin.com/sales/company/162422",
+          "https://www.linkedin.com/sales/company/221558",
+          "https://www.linkedin.com/sales/company/222996",
+          "https://www.linkedin.com/sales/company/2602140",
+          "https://www.linkedin.com/sales/company/335297",
+          "https://www.linkedin.com/sales/company/924872",
+          "https://www.linkedin.com/sales/company/72604",
+          "https://www.linkedin.com/sales/company/2731194",
+          "https://www.linkedin.com/sales/company/110290",
+          "https://www.linkedin.com/sales/company/12906074"
+        ],
+
+    "sales": {
+        "login": {
+            "url": "https://www.linkedin.com/sales/login",
+            "logInIfrmaeSelector" : "iframe.authentication-iframe.vertical-align-middle",
+            "username": "emillie@brandlock.io",
+            "usernameSelector": "input#username",
+            "password": "$emalinkedin@",
+            "passwordSelector": "input#password",
+            "submitSelector": "#app__container > main > div > form > div.login__form_action_container > button"
+        },
+        "company": {
+            "companyWebsiteSelector" : "[data-control-name=\"visit_company_website\"]",
+            "companyNameSelector" : "#ember53> [data-anonymize=\"company-name\"]",
+            "employeeCountToScrape": 2,
+            "navSearchBoxSelector": "#global-typeahead-search-input",
+            "allEmployeesSelector": ".ember-view.link-without-visited-and-hover-state",
+            "paginationSelector": ".artdeco-pagination",
+            "paginationDisabledSelector": ".artdeco-pagination--hide-pagination",
+            "paginationNextSelector": ".artdeco-pagination button[aria-label='Next']",
+            "pageHeight" : "return document.getElementsByClassName(\"artdeco-list background-color-white _border-search-results_1igybl\")[0].scrollHeight",
+            "lastPageNo" : "return document.querySelector(\".artdeco-pagination > ul > li:last-child > button > span\").textContent\n",
+            "addJobTitleButton": "fieldset:nth-child(3) > div > fieldset > div > button",
+            "inputJobTitle" : "input[class=\"artdeco-typeahead__input search-filter__focus-target--input\"]",
+            "searchResultHoverableOutletSelector": "#search-result-hoverable-outlet",
+            "jobSelector": "fieldset[data-test-search-filter='TITLE'] button",
+            "jobTextSelector": "fieldset[data-test-search-filter='TITLE'] input",
+            "lastEmpID" : "return document.querySelectorAll('div.artdeco-entity-lockup__content')[document.querySelectorAll('div.artdeco-entity-lockup__content').length-1].getAttribute(\"id\");",
+            "employeeSelector": {
+                "content": "div.artdeco-entity-lockup__content",
+                "name": "div.artdeco-entity-lockup__title a.ember-view",
+                "designation": "div.artdeco-entity-lockup__subtitle span:not([class])",
+                "company": ".artdeco-entity-lockup__subtitle a",
+                "location": ".artdeco-entity-lockup__caption span"
+
+            },
+            "jobFilters": [
+                            "CEO",
+                            "Founder",
+                            "CMO",
+                            "CTO",
+                            "CIO",
+                            "COO",
+                            "Chief",
+                            "President",
+                            "DTC",
+                            "Omnichannel",
+                            "UI/UX",
+                            "User experience",
+                            "Marketing",
+                            "Ecommerce",
+                            "E-commerce",
+                            "Online",
+                            "Digital",
+                            "Brand",
+                            "Design",
+                            "Product",
+                            "Finance",
+                            "Customer",
+                            "Growth",
+                            "Performance",
+                            "Sales",
+                            "Analytics",
+                            "Third party",
+                            "Marketplace"
+
+                            ],
+
+         "jobLavels": [
+                      "CEO",
+                      "Founder",
+                       "CMO",
+                       "CTO",
+                       "CIO",
+                       "COO",
+                       "Chief",
+                       "President",
+                        "Director",
+                        "Head",
+                        "VP",
+                        "Vice President",
+                        "EVP",
+                        "SVP",
+                        "AVP",
+                        "Manager"
+                       ]
+
+
+        }
+    }
+}
