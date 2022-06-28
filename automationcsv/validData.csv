@@ -1,0 +1,11 @@
+,SiteName,ItemName,TotalQty,intialQty,inhandQty,InvoiceQty,SiteID
+100,AECS1060,104689 - Strawberry Lime (Sweet Strawberries and Spicy Lime),20,10,10,10,1060
+101,AECS1060,104690 - Banana ICE (Ripe Banana And Refreshing Icy Mint),20,8,12,0,1060
+102,AECS1060,104691 - Cinnamon Fireball (Sweet Yet Rich Fiery Flavor),20,2,18,0,1060
+103,AECS1060,104692 - Berry Menthol (Fruity Irresistible Berry Blends),20,4,16,0,1060
+104,AECS1060,104688 - Caramel Tobacco (Rich Tobacco With Vanilla Caramel Notes),20,1,19,0,1060
+140,AECS1076,104689 - Strawberry Lime (Sweet Strawberries and Spicy Lime),20,10,10,10,1076
+141,AECS1076,104690 - Banana ICE (Ripe Banana And Refreshing Icy Mint),20,7,13,0,1076
+142,AECS1076,104691 - Cinnamon Fireball (Sweet Yet Rich Fiery Flavor),20,3,17,0,1076
+143,AECS1076,104692 - Berry Menthol (Fruity Irresistible Berry Blends),20,8,12,0,1076
+144,AECS1076,104688 - Caramel Tobacco (Rich Tobacco With Vanilla Caramel Notes),20,0,20,0,1076

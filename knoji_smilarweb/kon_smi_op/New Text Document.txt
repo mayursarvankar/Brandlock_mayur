@@ -1,0 +1,5 @@
+	
+https://api.similarweb.com/v1/similar-rank/{{google.com}}/rank?api_key={{20e8efbafed7409bba89bcd9bc5cd508}}
+
+
+https://api.similarweb.com/v1/similar-rank/google.com/rank?api_key=20e8efbafed7409bba89bcd9bc5cd508
