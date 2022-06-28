@@ -1,0 +1,229 @@
+1655882037966	geckodriver	INFO	Listening on 127.0.0.1:65410
+1655882040842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilepDC42T"
+1655882046997	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilepDC42T\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+1655882203151	geckodriver	INFO	Listening on 127.0.0.1:65467
+1655882206197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileOyLK2M"
+1655882207214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileOyLK2M\\search.json.mozlz4", (void 0)))
+1655882217424	Marionette	INFO	Listening on port 65504
+Read port: 65504
+1655882218699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655882270442	Marionette	INFO	Stopped listening on port 65504
+1655882289317	geckodriver	INFO	Listening on 127.0.0.1:65520
+1655882292390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileNtch2N"
+1655882293125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileNtch2N\\search.json.mozlz4", (void 0)))
+1655882298136	Marionette	INFO	Listening on port 49167
+Read port: 49167
+1655882298770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.yottaa.com/rapid.min.6.1.7.js?key=wHluDYpDWrQNMA, line 1: TypeError: d[l] is not a function
+JavaScript error: https://footwearetc.com/ line 1 > injectedScript, line 1: TypeError: prod.querySelector(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cartier.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cartier.com"
+JavaScript warning: https://www.cartier.com/71rjw/w0mhU/8XppfR/GjMJ/9GaakLSr1b/Hls2Ag/Y3/kKMkhAMTY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://files1.cybba.solutions/1396/loader.min.js?v=29950, line 5: TypeError: object.shop.campaigns[cId] is undefined
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.brooksrunning.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.brooksrunning.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_Redirect3Complete) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.jabra.in/, line 10798: ReferenceError: assignment to undeclared variable customizerSpot
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_HistoryCommitIndexAndLength) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cartier.jp"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cartier.jp"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1655882480472	Marionette	INFO	Stopped listening on port 49167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655882635010	geckodriver	INFO	Listening on 127.0.0.1:50863
+1655882638011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilelDSG5n"
+1655882641357	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilelDSG5n\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+[Parent 10540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 906: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1655882704668	geckodriver	INFO	Listening on 127.0.0.1:51089
+1655882708586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileEi1nzx"
+1655882710628	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileEi1nzx\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+1655882889096	geckodriver	INFO	Listening on 127.0.0.1:52307
+1655882892166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileMNi3zb"
+1655882893151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileMNi3zb\\search.json.mozlz4", (void 0)))
+1655882901866	Marionette	INFO	Listening on port 52340
+Read port: 52340
+1655882905416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.yottaa.com/rapid.min.6.1.7.js?key=wHluDYpDWrQNMA, line 1: TypeError: d[l] is not a function
+JavaScript error: https://footwearetc.com/ line 1 > injectedScript, line 1: TypeError: prod.querySelector(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cartier.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cartier.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://files1.cybba.solutions/1396/loader.min.js?v=6185, line 5: TypeError: object.shop.campaigns[cId] is undefined
+JavaScript warning: https://www.cartier.com/71rjw/w0mhU/8XppfR/GjMJ/9GaakLSr1b/Hls2Ag/Y3/kKMkhAMTY line 23 > srcScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_HistoryCommitIndexAndLength) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_HistoryCommitIndexAndLength) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cartier.jp"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1655882968059	Marionette	INFO	Stopped listening on port 52340
+[Parent 6428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655883249529	geckodriver	INFO	Listening on 127.0.0.1:52758
+1655883252595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileL7A3H9"
+1655883253373	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileL7A3H9\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined

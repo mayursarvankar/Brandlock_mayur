@@ -1,0 +1,20 @@
+1653373513887	geckodriver	INFO	Listening on 127.0.0.1:63756
+1653373516997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilei4iRhy"
+1653373522079	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilei4iRhy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63757/devtools/browser/2dbfd175-3840-4caa-aa0a-a8db2b8028ff
+1653373539328	Marionette	INFO	Listening on port 63788
+Read port: 63788
+1653373539487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js?v=20210208, line 1: TypeError: can't define property Symbol.iterator: String Iterator is not extensible
+JavaScript error: https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js, line 1: TypeError: can't define property Symbol.iterator: String Iterator is not extensible
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cariuma.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cariuma.com"
+JavaScript error: https://cdn-loyalty.yotpo.com/loader/L38NlyNzhqwQphkUbcBqvA.js?shop=cariuma.myshopify.com, line 3: Error: Yotpo Loyalty SDK loader script already loaded
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.km0trk.com/scripts/shopify/click.js?nid=1120&intid=52&shop=cariuma.myshopify.com, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.km0trk.com/scripts/shopify/click.js?nid=1120&intid=52&shop=cariuma.myshopify.com, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1653373603332	Marionette	INFO	Stopped listening on port 63788
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
